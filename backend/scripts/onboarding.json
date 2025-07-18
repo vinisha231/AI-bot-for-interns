@@ -1,0 +1,9 @@
+{
+  "welcome": "Hi there! I’m your AI Buddy. I’ll help you get started with your internship. Ready?",
+  "getting_started": "First things first: make sure you've joined the teams workspace, synced your calendar, and connected with your buddy.",
+  "daily_checkin": "Don’t forget to submit your daily check-in before 10 AM! If you're not sure how, just ask me.",
+  "tools_overview": "You’ll be using GitHub, Jira, Confluence, and teams. Want help with any of those?",
+  "fun_tip": "Pro tip: The #intern-support channel in teams is a goldmine of answers and memes.",
+  "bye": "That’s all for now. I’m always here if you get stuck or need help. You got this!",
+  "error": "Oops! I couldn’t find the information you were looking for. Please try again or ask for help."
+}
