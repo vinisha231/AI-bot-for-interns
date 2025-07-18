@@ -1,0 +1,37 @@
+Your Manager & Reporting Structure
+
+
+Welcome! Here’s who you report to and how your support network is structured during your internship.
+
+
+👤 Manager:
+- Name: Priya Sharma
+- Role: Engineering Manager, Intern Programs
+- Email: priya.sharma@company.com
+- Location: Seattle HQ (Hybrid)
+- 1:1 Meetings: Weekly on Tuesdays at 2 PM (Check your calendar)
+
+
+📩 Responsibilities of Your Manager:
+- Assigns your initial onboarding tasks and GitHub issues
+- Approves time off requests
+- Provides performance feedback
+- Conducts midpoint and final evaluations
+
+
+🧑‍🤝‍🧑 Your Support Squad:
+- Buddy: Miguel Rivera (Backend Engineer)  
+  - Slack: @miguelrivera  
+  - Helps you understand the team codebase and tools
+
+
+- Mentor: Ayesha Khan (Senior Software Engineer)  
+  - Slack: @ayeshak  
+  - Reviews your code and helps with long-term projects
+
+
+📅 Team Standups:
+- Daily at 10:00 AM PST via Zoom (link in calendar invite)
+
+
+You’re never alone — reach out to your buddy or manager anytime. You're here to learn, grow, and succeed 🌱🚀
