@@ -1,0 +1,34 @@
+Here are the key tools you'll be using during your internship:
+
+
+1. Slack
+   - Our main communication platform.
+   - Join your team’s channel and check the #intern-support channel for help.
+
+
+2. Jira
+   - Used for task tracking and sprint planning.
+   - Your manager will assign you to a project board.
+
+
+3. GitHub
+   - Code repository for all projects.
+   - Use feature branches and submit pull requests for all work.
+
+
+4. Confluence
+   - Internal documentation hub.
+   - Search for onboarding guides, architecture docs, and meeting notes.
+
+
+5. Zoom
+   - Used for team meetings and check-ins.
+   - Make sure your calendar is synced.
+
+
+6. VS Code
+   - Preferred code editor (but you can use your own).
+   - Install the team-recommended extensions from the onboarding guide.
+
+
+If you ever feel lost, search our internal docs or ask your buddy!
