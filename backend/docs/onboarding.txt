@@ -1,0 +1,34 @@
+Welcome to your internship!
+
+
+Here’s a quick guide to help you get started:
+
+
+1. First day tasks:
+   - Meet with your manager for your onboarding sync.
+   - Join the company Slack workspace.
+   - Set up your email and calendar.
+   - Request access to tools like GitHub, Jira, and Confluence.
+
+
+2. Orientation:
+   - Attend the intern welcome session (check your calendar invite).
+   - Review the employee handbook and internship expectations.
+
+
+3. Buddy system:
+   - You've been assigned a buddy! Reach out to them with any questions.
+   - Weekly 1:1s with your buddy are encouraged.
+
+
+4. Codebase:
+   - The main code repo is hosted on GitHub under the `company-org` org.
+   - Clone it, explore the README, and try building locally.
+
+
+5. Important links:
+   - Intern Portal: https://intranet.company.com/interns
+   - Time tracking: https://workhours.company.com
+
+
+Remember: It’s okay to ask questions. Your buddy and team are here to help you succeed!
